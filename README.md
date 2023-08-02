@@ -1,9 +1,13 @@
 
-# Database
-City state country dropdown : http://lab.iamrohit.in/php_ajax_country_state_city_dropdown/ 
-Download full source code: http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown
+## Countries, States, Cities database (JSON, SQL)
 
-# Note: 
-*This Free database dose not guarantee for the complete list of world countries, states and cities.
+- Source: [iamrohit.in](http://www.iamrohit.in/tag/php-ajax-country-state-city-dropdown)
 
-*You can manually change the spelling mistakes, or add edit any records, which are not correct.
+#### Notes: 
+
+- This free database doesn't guarantee for the complete list of world countries, states and cities.
+- You can manually change the spelling mistakes, or add edit any records, which are not correct.
+
+#### Author:
+
+- [BoolFalse](https://boolfalse.com/)
